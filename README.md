@@ -1,3 +1,4 @@
+hello
 # VS Code Verilog 자동 정리 & 스니펫 설정 가이드
 
 ### 1. Verilog 익스텐션 확인
